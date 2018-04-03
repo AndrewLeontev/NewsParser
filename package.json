@@ -7,17 +7,10 @@
     "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "parser",
-    "news",
-    "js",
-    "node",
-    "3dnews",
-    "html"
-  ],
   "author": "Andrew Leontev",
   "license": "ISC",
   "dependencies": {
     "osmosis": "^1.1.6"
   }
 }
+ 
